@@ -2,5 +2,8 @@
 	path = backend
 	url = git@github.com:10a7/ethgasstation-backend.git
 [submodule "frontend"]
-	path = frontend
+	path = api
 	url = git@github.com:10a7/ethgasstation-frontend.git
+[submodule "api"]
+	path = api
+	url = git@github.com:10a7/ethgasstation-api.git
